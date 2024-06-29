@@ -1,0 +1,17 @@
+p { 
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+body{ /* style for the whole body */
+    margin: 0;
+    padding-top: 90px;
+    padding-left: 96px;
+    padding-right: 26px;
+    margin-bottom: 300px;
+    background-color: rgb(251, 247, 247);
+    font-family: Arial, Helvetica, sans-serif;}
+
+.div{
+  font-family: arial;
+}
