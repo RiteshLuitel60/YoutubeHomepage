@@ -59,10 +59,6 @@ This project is for educational purposes only and is not affiliated with or endo
 ## 🌐 Live Demo
 
 
-**[Live Project →]([https://your-username.github.io/YouTubeHomepage/](https://riteshluitel60.github.io/YoutubeHomepage/))**
+**[Live Project →](https://your-username.github.io/YouTubeHomepage/](https://riteshluitel60.github.io/YoutubeHomepage/))**
 
----
-
-## 📧 Contact
-
-Feel free to connect with me on [LinkedIn](#) or reach out with suggestions and feedback.
+-
