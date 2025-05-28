@@ -58,8 +58,8 @@ This project is for educational purposes only and is not affiliated with or endo
 
 ## 🌐 Live Demo
 
-If hosted via GitHub Pages, include the link here:  
-**[Live Project →](https://your-username.github.io/YouTubeHomepage/)**
+
+**[Live Project →]([https://your-username.github.io/YouTubeHomepage/](https://riteshluitel60.github.io/YoutubeHomepage/))**
 
 ---
 
